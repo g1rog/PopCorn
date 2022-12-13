@@ -1,6 +1,6 @@
 
-#include "framework.h"
-#include "main.h"
+#include "Resource.hpp"
+#include "framework.hpp"
 
 static constexpr auto MAX_LOADSTRING = 100;
 

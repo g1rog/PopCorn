@@ -2,7 +2,7 @@
 #pragma once
 #define WIN32_LEAN_AND_MEAN           
 
-#include "targetver.h"
+#include "targetver.hpp"
 #include <windows.h>
 #include <stdlib.h>
 #include <malloc.h>
